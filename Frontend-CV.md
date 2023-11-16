@@ -1,4 +1,4 @@
-# Anya Karnaukh
+# Anya Pirogova
 Frontend developer
 
 ✉️ [anna0alekseevna@gmail.com](mailto:anna0alekseevna@gmail.com)
