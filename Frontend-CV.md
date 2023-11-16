@@ -1,5 +1,11 @@
 # Anya Pirogova
-Frontend developer
+```Frontend developer```
+
+[Contacts](#contacts)
+[Experience](#experience)
+[Skills](#skills) [Education](#education)
+
+## Contacts
 
 ✉️ [anna0alekseevna@gmail.com](mailto:anna0alekseevna@gmail.com)
 
@@ -104,6 +110,8 @@ Frontend developer
 - Russian — Native
 
 ## Education
-**Bryansk State Technical University** — Engineer’s degree
-- 2008 – 2013
-- Computer Science And Software Engineering
+### Bryansk State Technical University
+
+*2008 – 2013*
+
+**Engineer’s degree** in Computer Science And Software Engineering
