@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Certainly! Here's the content formatted in Markdown:
-
-```markdown
 ## Experience
 
 ### PARI — Full Stack Developer
@@ -102,13 +99,4 @@ Certainly! Here's the content formatted in Markdown:
 **Bryansk State Technical University** — Engineer’s degree
 - 2008 – 2013
 - Computer Science And Software Engineering
-```
-
-Feel free to adjust the formatting as needed!
-- Russian — Native
-
-## Education
-**Bryansk State Technical University — Engineer’s degree**
-*2008 – 2013*
-Computer Science And Software Engineering
 
